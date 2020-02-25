@@ -4,11 +4,11 @@ The category includes 3 parts: data reuse, multiplier, NAS.
 
 
 # Table of Contents
-+ [Papers](#papers)
-  - [Surveys](#NAS_Hardware)
++ [NAS](#nas)
+  - [Hardware](#hardware)
 
-# Papers
-### NAS_Hardware
+# NAS
+### Hardware
 + 2019 | HAQ: Hardware-Aware Automated Quantization with Mixed Precision | Kuan Wang, et al. (Song Han Group) | arXiv | [`PDF`](https://arxiv.org/pdf/1811.08886.pdf)
 
 
