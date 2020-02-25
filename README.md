@@ -3,7 +3,9 @@ This repository provides the public references for accelerating AI SOC with high
 The category includes 3 parts: data reuse, multiplier, NAS.
 
 
-
+# Table of Contents
++ [Papers](#papers)
+  - [Surveys](#surveys)
 
 # Papers
 ### Surveys
