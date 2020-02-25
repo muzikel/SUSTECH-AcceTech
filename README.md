@@ -6,7 +6,8 @@ The category includes 3 parts: data reuse, multiplier, NAS.
 # Table of Contents
 + [Papers](#papers)
   - [NAS](#nas)
-  -- [Computation](#computation)
+  - [HPC](#hpc)
+  - [Computation](#computation)
 
 # Papers
 ### NAS
