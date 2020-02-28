@@ -11,7 +11,7 @@ The category includes 3 parts: data reuse, multiplier, NAS.
 
 # Papers
 ### Computing 
-#### Mixed-Precision (HPC)
+#### Mixed-Precision
 + 2018 | BISMO: A Scalable Bit-Serial Matrix Multiplication Overlay for Reconfigurable Computing | NTNU Group | FPL | [`PDF`](https://arxiv.org/pdf/1806.08862.pdf)
 + 2018 | Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks | H. Sharma, et al. | ISCA | [`PDF`](https://arxiv.org/pdf/1712.01507.pdf)
 + 2018 | Harnessing GPU Tensor Cores for Fast FP16 Arithmetic to Speed up Mixed-Precision Iterative Refinement Solvers | A. Haidar, et al. | Supercomputing | [`PDF`](http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_fp16_sc18.pdf)
@@ -22,6 +22,7 @@ The category includes 3 parts: data reuse, multiplier, NAS.
 + 2018 | Mixed Precision Training | Baidu | ICLR | [`PDF`](https://arxiv.org/pdf/1710.03740.pdf)
 + 2017 | Bit-Pragmatic Deep Neural Network Computing | UToronto Group | Micro | [`PDF`](https://arxiv.org/pdf/1610.06920.pdf) 
 + 2016 | Stripes: Bit-Serial Deep Neural Network Computing | UToronto Group | Micro | [`PDF`](http://www.ece.ubc.ca/~taylerh/doc/stripes_micro16.pdf) 
+#### Multiplication
 + 2015 | Performance Analysis of Karatsuba Multiplication Algorithm for Different Bit Lengths | C. Eyupoglu | [`PDF`](https://reader.elsevier.com/reader/sd/pii/S1877042815038999?token=EB87D381723B92FB151FC26BE96E0B744C951A87F571460B2C7668FD0D2F59872C6C38AC5E7E494E9DC8E236AA565DC7)
 + 2015 | An Efficient Floating Point Multiplier Design for High Speed Applications using Karatsuba Algorithm and Urdhva-Tiryagbhyam Algorithm | S. Arish, et al. | ICSC | [`PDF`](https://arxiv.org/ftp/arxiv/papers/1910/1910.00976.pdf)
 + 2014 | An Efficient Baugh-Wooley Multiplication Algorithm for 32-bit Synchronous Multiplication | [`PDF`](https://pdfs.semanticscholar.org/b90b/552371ec9e0bb807e660899d84e78e548c48.pdf)
