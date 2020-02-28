@@ -14,9 +14,9 @@ The category includes 3 parts: data reuse, multiplier, NAS.
 
 ### Computing
 #### Mixed-Precision
-+ 2018 | BISMO: A Scalable Bit-Serial Matrix Multiplication Overlay for Reconfigurable Computing | Yaman Umuroglu, et al. (NTNU Group) FPL | [`PDF`](https://arxiv.org/pdf/1806.08862.pdf)
++ 2018 | BISMO: A Scalable Bit-Serial Matrix Multiplication Overlay for Reconfigurable Computing | Yaman Umuroglu, et al. (NTNU Group) | FPL | [`PDF`](https://arxiv.org/pdf/1806.08862.pdf)
 
-+ 2018 | Harnessing GPU Tensor Cores for Fast FP16 Arithmetic to Speed up Mixed-Precision Iterative Refinement Solvers | A. Haidar, et al. | [`PDF`](http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_fp16_sc18.pdf)
++ 2018 | Harnessing GPU Tensor Cores for Fast FP16 Arithmetic to Speed up Mixed-Precision Iterative Refinement Solvers | A. Haidar, et al. | Supercomputing | [`PDF`](http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_fp16_sc18.pdf)
 
 + 2018 | Mixed-precision in-memory computing | Manuel Le Gallo, et al. Nature Electronics | [`PDF`](https://arxiv.org/pdf/1701.04279.pdf)
 
