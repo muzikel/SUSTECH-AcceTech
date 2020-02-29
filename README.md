@@ -7,6 +7,7 @@ The main applications are focusing on HPC (high performance computing), NAS (neu
 + [Papers](#papers)
   - [Computing](#computing)
   - [NAS](#nas)
++ [Hardware implementation](#hardware-implementation)
 
 
 # Papers
@@ -34,6 +35,10 @@ The main applications are focusing on HPC (high performance computing), NAS (neu
 
 ### NAS
 + 2019 | HAQ: Hardware-Aware Automated Quantization with Mixed Precision | Song Han Group | CVPR | [`PDF`](https://arxiv.org/pdf/1811.08886.pdf)
+
+
+# Hardware implementation
++ Berkeley HardFloat is a hardware implementation of binary floating-point that conforms to the IEEE Standard for Floating-Point Arithmetic. | [link](http://www.jhauser.us/arithmetic/HardFloat-1/doc/HardFloat-Verilog.html)
 
 
 
