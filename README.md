@@ -39,6 +39,8 @@ The main applications are focusing on HPC (high performance computing), NAS (neu
 
 # Hardware implementation
 + Berkeley HardFloat is a hardware implementation of binary floating-point that conforms to the IEEE Standard for Floating-Point Arithmetic. | [link](http://www.jhauser.us/arithmetic/HardFloat-1/doc/HardFloat-Verilog.html)
++ IEEE 745 folating point from wiki.(old edition) | [link](https://en.wikipedia.org/wiki/IEEE_754-1985.html)
++ IEEE 745 folating point from wiki.(new edition) | [link](https://en.wikipedia.org/wiki/IEEE_754.html)
 
 
 
